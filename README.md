@@ -4,3 +4,4 @@ Este proyecto sirve para practicar Git.
 Instrucciones pendientes
 Cambio propuesta
 Editado desde Codespaces
+Comentario añadido por Chritopher Ayala

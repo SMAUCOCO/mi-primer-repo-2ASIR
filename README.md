@@ -3,3 +3,4 @@ Este proyecto sirve para practicar Git.
 ## Instalación
 Instrucciones pendientes
 Cambio propuesta
+Editado desde Codespaces
